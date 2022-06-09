@@ -4,68 +4,78 @@
     "name": "Broccoli - 1 Kg",
     "price": 120,
     "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/broccoli.jpg",
-    "category": "vegetables"
+    "category": "vegetables",
+    "storage": 5
   },
   {
     "id": 2,
     "name": "Cauliflower - 1 Kg",
     "price": 60,
     "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/cauliflower.jpg",
-    "category": "vegetables"
+    "category": "vegetables",
+    "storage": 12
   },
   {
     "id": 3,
     "name": "Cucumber - 1 Kg",
     "price": 48,
     "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620046/dummy-products/cucumber.jpg",
-    "category": "vegetables"
+    "category": "vegetables",
+    "storage": 15
   },
   {
     "name": "Banana - 1 Kg",
     "price": 45,
     "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/banana.jpg",
-    "category": "fruits"
+    "category": "fruits",
+    "storage": 10
   },
   {
     "id": 5,
     "name": "Walnuts - 1/4 Kg",
     "price": 170,
     "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/walnuts.jpg",
-    "category": "nuts"
+    "category": "nuts",
+    "storage": 4
   },
   {
     "id": 6,
     "name": "Tomato - 1 Kg",
     "price": 16,
     "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/tomato.jpg",
-    "category": "vegetables"
+    "category": "vegetables",
+    "storage": 5
   },
   {
     "id": 7,
     "name": "Beans - 1 Kg",
     "price": 82,
     "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/beans.jpg",
-    "category": "vegetables"
+    "category": "vegetables",
+    "storage": 0
   },
   {
     "id": 8,
     "name": "Pears - 1 Kg",
     "price": 69,
     "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/pears.jpg",
-    "category": "fruits"
+    "category": "fruits",
+    "storage": 9
   },
   {
     "id": 9,
     "name": "Capsicum",
     "price": 60,
     "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/capsicum.jpg",
-    "category": "vegetables"
+    "category": "vegetables",
+    "storage": 8
   },
   {
     "id": 10,
     "name": "Mushroom - 1 Kg",
     "price": 75,
     "image": "https://res.cloudinary.com/sivadass/image/upload/v1493620045/dummy-products/button-mushroom.jpg",
-    "category": "vegetables"
+    "category": "vegetables",
+    "storage": 2
   }
 ]
